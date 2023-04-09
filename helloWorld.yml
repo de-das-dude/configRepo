@@ -1,6 +1,6 @@
 helloWorld:
   property:
-    text: Hello World
+    text: true
     
 server:
   port: 8888
