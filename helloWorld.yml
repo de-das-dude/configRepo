@@ -1,3 +1,16 @@
 helloWorld:
   property:
     text: Hello World
+    
+server:
+  port: 8888
+  
+spring:
+  application:
+    name: helloWorld
+    
+helloWorld:
+  property:
+    text: true
+    
+uri: http://localhost:8010/mainController/postHello
